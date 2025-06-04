@@ -8,6 +8,8 @@ Pretende-se  que  cada  grupo  de  alunos  realize  um  trabalho  de  análise, 
 
 O resto dos requerimentos podem ser vistos no [enunciado](BD-Enunciado.pdf).
 
+É também possível consultar o [relatório](BD-Relatório.pdf).
+
 ## Criação da Base de Dados
 
 Na pasta [Scripts](Scripts/) podem ser consultados os ficheiros de código SQL usados na criação da base de dados, assim como na criação de estruturas, roles, utilizadores e no povoamento da mesma.
