@@ -1,0 +1,12 @@
+ID_Cliente,Nome,Data_Nascimento,Email,Rua,Cidade
+100,Tiago,2005-12-07,tiago@gmail.com,Rua_Tiago,Barcelos
+101,Duarte,2005-12-27,duarte@gmail.com,Rua_Duarte,Barcelos
+102,Luis,2005-10-14,luis@gmail.com,Rua_Luis,Vila_Verde
+103,Joao,2004-02-10,joao@gmail.com,Rua_Joao,Braga
+104,Ana,2000-01-01,ana@gmail.com,Rua_Ana,Albufeira
+105,Maria,1999-04-07,maria@gmail.com,Rua_Maria,Lisboa
+106,Joaquim,1951-04-14,joaquim@gmail.com,Rua_Joaquim,Porto
+107,Carlos,1990-06-06,carlos@gmail.com,Rua_Carlos,Ponte_Lima
+108,Jose,2005-11-05,jose@gmail.com,Rua_Jose,Lisboa
+109,Mariana,2004-10-15,mariana@gmail.com,Rua_Mariana,Braga
+110,Josefina,1970-07-20,josefina@gmail.com,Rua_Josefina,Braga

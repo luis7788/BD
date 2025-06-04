@@ -1,0 +1,13 @@
+[
+  {"ID_Cliente": 100, "Nome": "Tiago", "Data_Nascimento": "2005-12-07", "Email": "tiago@gmail.com", "Rua": "Rua_Tiago", "Cidade": "Barcelos"},
+  {"ID_Cliente": 101, "Nome": "Duarte", "Data_Nascimento": "2005-12-27", "Email": "duarte@gmail.com", "Rua": "Rua_Duarte", "Cidade": "Barcelos"},
+  {"ID_Cliente": 102, "Nome": "Luis", "Data_Nascimento": "2005-10-14", "Email": "luis@gmail.com", "Rua": "Rua_Luis", "Cidade": "Vila_Verde"},
+  {"ID_Cliente": 103, "Nome": "Joao", "Data_Nascimento": "2004-02-10", "Email": "joao@gmail.com", "Rua": "Rua_Joao", "Cidade": "Braga"},
+  {"ID_Cliente": 104, "Nome": "Ana", "Data_Nascimento": "2000-01-01", "Email": "ana@gmail.com", "Rua": "Rua_Ana", "Cidade": "Albufeira"},
+  {"ID_Cliente": 105, "Nome": "Maria", "Data_Nascimento": "1999-04-07", "Email": "maria@gmail.com", "Rua": "Rua_Maria", "Cidade": "Lisboa"},
+  {"ID_Cliente": 106, "Nome": "Joaquim", "Data_Nascimento": "1951-04-14", "Email": "joaquim@gmail.com", "Rua": "Rua_Joaquim", "Cidade": "Porto"},
+  {"ID_Cliente": 107, "Nome": "Carlos", "Data_Nascimento": "1990-06-06", "Email": "carlos@gmail.com", "Rua": "Rua_Carlos", "Cidade": "Ponte_Lima"},
+  {"ID_Cliente": 108, "Nome": "Jose", "Data_Nascimento": "2005-11-05", "Email": "jose@gmail.com", "Rua": "Rua_Jose", "Cidade": "Lisboa"},
+  {"ID_Cliente": 109, "Nome": "Mariana", "Data_Nascimento": "2004-10-15", "Email": "mariana@gmail.com", "Rua": "Rua_Mariana", "Cidade": "Braga"},
+  {"ID_Cliente": 110, "Nome": "Josefina", "Data_Nascimento": "1970-07-20", "Email": "josefina@gmail.com", "Rua": "Rua_Josefina", "Cidade": "Braga"}
+]

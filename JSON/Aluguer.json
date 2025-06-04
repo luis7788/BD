@@ -1,0 +1,10 @@
+[
+  {"Nr_Aluguer": 69, "Data_Inicio": "2009-08-18", "Data_Fim": "2009-08-20", "ID_Cliente": 106, "ID_Funcionario": 2, "Nr_Carro": 1000},
+  {"Nr_Aluguer": 70, "Data_Inicio": "2009-08-23", "Data_Fim": "2009-08-26", "ID_Cliente": 108, "ID_Funcionario": 2, "Nr_Carro": 1005},
+  {"Nr_Aluguer": 71, "Data_Inicio": "2009-08-27", "Data_Fim": "2009-09-01", "ID_Cliente": 101, "ID_Funcionario": 4, "Nr_Carro": 1007},
+  {"Nr_Aluguer": 72, "Data_Inicio": "2009-09-07", "Data_Fim": "2009-09-14", "ID_Cliente": 104, "ID_Funcionario": 3, "Nr_Carro": 1005},
+  {"Nr_Aluguer": 73, "Data_Inicio": "2009-09-13", "Data_Fim": "2009-09-15", "ID_Cliente": 107, "ID_Funcionario": 4, "Nr_Carro": 1000},
+  {"Nr_Aluguer": 74, "Data_Inicio": "2009-09-20", "Data_Fim": "2009-09-29", "ID_Cliente": 105, "ID_Funcionario": 5, "Nr_Carro": 1003},
+  {"Nr_Aluguer": 75, "Data_Inicio": "2009-09-25", "Data_Fim": "2009-10-02", "ID_Cliente": 101, "ID_Funcionario": 2, "Nr_Carro": 1004},
+  {"Nr_Aluguer": 76, "Data_Inicio": "2009-10-01", "Data_Fim": "2009-10-04", "ID_Cliente": 109, "ID_Funcionario": 1, "Nr_Carro": 1001}
+]

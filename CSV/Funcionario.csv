@@ -1,0 +1,8 @@
+ID_Funcionario,Nome,Telefone,Email,Local_Trabalho,Rua,Cidade,Salario,ID_Funcao
+1,Orlando,911177464,orlando@hole.pt,Vilamoura,Rua_Orlando,Vilamoura,2000.0,1
+2,Beatriz,956894531,beatriz@hole.pt,Vilamoura,Rua_Beatriz,Albufeira,1000.0,3
+3,Jose,912145743,jose@hole.pt,Vilamoura,Rua_Jose,Quarteira,1500.0,2
+4,Iara,976494522,iara@hole.pt,Porto,Rua_Iara,Maia,1000.0,3
+5,Rogerio,900748741,rogerio@hole.pt,Porto,Rua_Rogerio,Porto,1500.0,2
+6,Ines,912345678,ines@hole.pt,Braga,Rua_Ines,Barcelos,1000.0,3
+7,Edgar,925444828,edgar@hole.pt,Braga,Rua_Edgar,Carvalhal,1500.0,2

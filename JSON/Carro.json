@@ -1,0 +1,15 @@
+[
+  {"Nr_Carro": 1000, "Stand": "Vilamoura", "Ano": 2017, "Nr_Lugares": 4, "Custo": 25.0},
+  {"Nr_Carro": 1001, "Stand": "Vilamoura", "Ano": 2020, "Nr_Lugares": 4, "Custo": 25.0},
+  {"Nr_Carro": 1002, "Stand": "Vilamoura", "Ano": 2016, "Nr_Lugares": 2, "Custo": 15.0},
+  {"Nr_Carro": 1003, "Stand": "Braga", "Ano": 2013, "Nr_Lugares": 2, "Custo": 15.0},
+  {"Nr_Carro": 1004, "Stand": "Braga", "Ano": 2015, "Nr_Lugares": 2, "Custo": 15.0},
+  {"Nr_Carro": 1005, "Stand": "Braga", "Ano": 2021, "Nr_Lugares": 4, "Custo": 25.0},
+  {"Nr_Carro": 1006, "Stand": "Porto", "Ano": 2017, "Nr_Lugares": 4, "Custo": 25.0},
+  {"Nr_Carro": 1007, "Stand": "Porto", "Ano": 2013, "Nr_Lugares": 2, "Custo": 15.0},
+  {"Nr_Carro": 1008, "Stand": "Porto", "Ano": 2016, "Nr_Lugares": 4, "Custo": 25.0},
+  {"Nr_Carro": 1009, "Stand": "Porto", "Ano": 2009, "Nr_Lugares": 2, "Custo": 15.0}
+]
+
+
+

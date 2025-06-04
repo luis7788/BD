@@ -1,0 +1,9 @@
+[
+  {"ID_Funcionario": 1, "Nome": "Orlando", "Telefone": 911177464, "Email": "orlando@hole.pt", "Local_Trabalho": "Vilamoura", "Rua": "Rua_Orlando", "Cidade": "Vilamoura", "Salario": 2000.0, "ID_Funcao": 1},
+  {"ID_Funcionario": 2, "Nome": "Beatriz", "Telefone": 956894531, "Email": "beatriz@hole.pt", "Local_Trabalho": "Vilamoura", "Rua": "Rua_Beatriz", "Cidade": "Albufeira", "Salario": 1000.0, "ID_Funcao": 3},
+  {"ID_Funcionario": 3, "Nome": "Jose", "Telefone": 912145743, "Email": "jose@hole.pt", "Local_Trabalho": "Vilamoura", "Rua": "Rua_Jose", "Cidade": "Quarteira", "Salario": 1500.0, "ID_Funcao": 2},
+  {"ID_Funcionario": 4, "Nome": "Iara", "Telefone": 976494522, "Email": "iara@hole.pt", "Local_Trabalho": "Porto", "Rua": "Rua_Iara", "Cidade": "Maia", "Salario": 1000.0, "ID_Funcao": 3},
+  {"ID_Funcionario": 5, "Nome": "Rogerio", "Telefone": 900748741, "Email": "rogerio@hole.pt", "Local_Trabalho": "Porto", "Rua": "Rua_Rogerio", "Cidade": "Porto", "Salario": 1500.0, "ID_Funcao": 2},
+  {"ID_Funcionario": 6, "Nome": "Ines", "Telefone": 912345678, "Email": "ines@hole.pt", "Local_Trabalho": "Braga", "Rua": "Rua_Ines", "Cidade": "Barcelos", "Salario": 1000.0, "ID_Funcao": 3},
+  {"ID_Funcionario": 7, "Nome": "Edgar", "Telefone": 925444828, "Email": "edgar@hole.pt", "Local_Trabalho": "Braga", "Rua": "Rua_Edgar", "Cidade": "Carvalhal", "Salario": 1500.0, "ID_Funcao": 2}
+]
