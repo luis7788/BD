@@ -12,7 +12,7 @@ O resto dos requerimentos podem ser vistos no [enunciado](BD-Enunciado.pdf).
 
 ## Criação da Base de Dados
 
-Na pasta [Scripts](Scripts/) podem ser consultados os ficheiros de código SQL usados na criação da base de dados, assim como na criação de estruturas, roles, utilizadores e no povoamento da mesma.
+Na pasta [Scripts SQL](Scripts SQL/) podem ser consultados os ficheiros de código SQL usados na criação da base de dados, assim como na criação de estruturas, roles, utilizadores e no povoamento da mesma.
 
 No ficheiro [init_HoleInOne.sql](Scripts/init_HoleInOne.sql), está presente um script que ao ser executado cria diretamente a base de dados, tabelas e estruturas, para facilitar a criação da BD.
 
