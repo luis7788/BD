@@ -12,9 +12,9 @@ O resto dos requerimentos podem ser vistos no [enunciado](BD-Enunciado.pdf).
 
 ## Criação da Base de Dados
 
-Na pasta Scripts SQL podem ser consultados os ficheiros de código SQL usados na criação da base de dados, assim como na criação de estruturas, roles, utilizadores e no povoamento da mesma.
+Na pasta [Scripts-SQL](Scripts-SQL/) podem ser consultados os ficheiros de código SQL usados na criação da base de dados, assim como na criação de estruturas, roles, utilizadores e no povoamento da mesma.
 
-No ficheiro [init_HoleInOne.sql](Scripts/init_HoleInOne.sql), está presente um script que ao ser executado cria diretamente a base de dados, tabelas e estruturas, para facilitar a criação da BD.
+No ficheiro [init_HoleInOne.sql](Scripts-SQL/init_HoleInOne.sql), está presente um script que ao ser executado cria diretamente a base de dados, tabelas e estruturas, para facilitar a criação da BD.
 
 ## Sistema de Migração de Dados
 
@@ -49,14 +49,14 @@ Na pasta [CSV](CSV/), é possível encontrar ficheiros **CSV**, assim como scrip
 #### Execução - Com scripts
 
 ```console
-$ init.sh
-$ CSV.sh
+$ ./init.sh
+$ ./CSV.sh
 ```
 
 #### Execução - Sem scripts
 
 ```console
-$ CSV.py
+$ python CSV.py
 ```
 
 ### Fonte JSON
@@ -66,14 +66,14 @@ Funiona de forma semelhante à fonte CSV, como é possível ver mais a baixo:
 #### Execução - Com scripts
 
 ```console
-$ init.sh
-$ JSON.sh
+$ ./init.sh
+$ ./JSON.sh
 ```
 
 #### Execução - Sem scripts
 
 ```console
-$ JSON.py
+$ python JSON.py
 ```
 
 ### Fonte de dados relacionais
@@ -87,14 +87,14 @@ Na pasta [Povoamento](Povoamento/) é possível encontrar um programa *python* q
 #### Execução - Com scripts
 
 ```console
-$ init.sh
-$ povoamento.sh
+$ ./init.sh
+$ ./povoamento.sh
 ```
 
 #### Execução - Sem scripts
 
 ```console
-$ povoamento.py
+$ python povoamento.py
 ```
 
 ## Autores
