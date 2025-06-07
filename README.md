@@ -8,7 +8,7 @@ Pretende-se  que  cada  grupo  de  alunos  realize  um  trabalho  de  análise, 
 
 O resto dos requerimentos podem ser vistos no [enunciado](BD-Enunciado.pdf).
 
-É também possível consultar o [relatório](BD-Relatório.pdf).
+É também possível consultar o [relatório](BD-Relatório.pdf) e os [slides](slides.pdf) usados na apresentação para uma melhor compreensão do projeto.
 
 ## Criação da Base de Dados
 
@@ -115,7 +115,7 @@ Each student group is expected to carry out a project involving the analysis, pl
 
 The rest of the requirements can be found in the [project description](BD-Enunciado.pdf).
 
-You can also check the [report](BD-Relatório.pdf).
+You can also check the [report](BD-Relatório.pdf) and the [slides](slides.pdf) user on the presentation for a better comprehension of the project.
 
 ## Database Creation
 
