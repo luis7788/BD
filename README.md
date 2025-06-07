@@ -26,7 +26,7 @@ Um dos requisitos para este projeto foi o desenvolvimento de um sistema de migra
 
 * Dados relacionais
 
-Foram desenvolvidas quatro formas de povoar a BD, três delas usam unicamente uma das fontes acima referidas e a última usa todas as três fontes ao mesmo tempo 
+Foram desenvolvidas quatro formas de povoar a BD, três delas usam unicamente uma das fontes acima referidas e a última usa todas as três fontes ao mesmo tempo.
 
 ### Dependências
 
