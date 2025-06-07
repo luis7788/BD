@@ -58,7 +58,7 @@ $ python JSON.py
 
 ### Fonte de dados relacionais
 
-É possível executar diretamente o seguinte [ficheiro](Scripts/script_povoamento.sql) sql.
+É possível executar diretamente o seguinte [ficheiro](Scripts-SQL/script_povoamento.sql) sql.
 
 ### Programa de povoamento misto
 
@@ -136,7 +136,7 @@ $ python JSON.py
 
 ### Relational Data Source
 
-You can directly execute the following SQL [file](Scripts/script_povoamento.sql).
+You can directly execute the following SQL [file](Scripts-SQL/script_povoamento.sql).
 
 ### Mixed Data Population Program
 
