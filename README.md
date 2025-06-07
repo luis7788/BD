@@ -48,7 +48,7 @@ $ python CSV.py
 
 ### Fonte JSON
 
-Funciona de forma semelhante à fonte CSV, como é possível ver mais a baixo:
+Na pasta [JSON](JSON/), é possível encontrar ficheiros **JSON**, assim como um programa *python* para realizar o povoamento da BD HoleInOne.
 
 #### Execução
 
@@ -126,7 +126,7 @@ $ python CSV.py
 
 ### JSON Source
 
-Works similarly to the CSV source, as shown below:
+In the [JSON](JSON/) folder, you will find **JSON** files as well as a Python program to populate the HoleInOne DB.
 
 #### Execution
 
