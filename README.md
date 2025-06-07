@@ -26,6 +26,8 @@ Um dos requisitos para este projeto foi o desenvolvimento de um sistema de migra
 
 * Dados relacionais
 
+Foram desenvolvidas quatro formas de povoar a BD, três delas usam unicamente uma das fontes acima referidas e a última usa todas as três fontes ao mesmo tempo 
+
 ### Dependências
 
 Para utilizar o programa de migração de dados, é necessária a instalação da biblioteca *python* **mysql-connector**, que pode ser feita através deste comando:
@@ -129,7 +131,9 @@ One of the requirements for this project was the development of a data migration
 
 * **CSV** source  
 * **JSON** source  
-* Relational data  
+* Relational data
+
+There are four ways to popolate the DB, three of them use only one of the sources already refered, and the last one uses all of them.
 
 ### Dependencies
 
