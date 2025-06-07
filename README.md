@@ -61,7 +61,7 @@ $ python CSV.py
 
 ### Fonte JSON
 
-Funiona de forma semelhante à fonte CSV, como é possível ver mais a baixo:
+Funciona de forma semelhante à fonte CSV, como é possível ver mais a baixo:
 
 #### Execução - Com scripts
 
