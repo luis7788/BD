@@ -115,7 +115,7 @@ Each student group is expected to carry out a project involving the analysis, pl
 
 The rest of the requirements can be found in the [project description](BD-Enunciado.pdf).
 
-You can also check the [report](BD-Relatório.pdf) and the [slides](slides.pdf) user on the presentation for a better comprehension of the project.
+You can also check the [report](BD-Relatório.pdf) and the [slides](slides.pdf) used on the presentation for a better comprehension of the project.
 
 ## Database Creation
 
