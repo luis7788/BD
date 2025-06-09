@@ -77,6 +77,7 @@ $ python povoamento.py
 * [tiagofigueiredo7](https://github.com/tiagofigueiredo7)
 * [JoaoRodrigues04](https://github.com/JoaoRodrigues04)
 
+---
 
 # DB (English)
 
